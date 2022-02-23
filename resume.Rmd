@@ -80,7 +80,7 @@ build_skill_bars(skills)
 Open Source Contributions {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at `github.com/nstrayer/<name>`
+All projects available at `github.com/daliahamooda/<name>`
 
 
 - `shinysense`: R package to use sensor data in Shiny apps
